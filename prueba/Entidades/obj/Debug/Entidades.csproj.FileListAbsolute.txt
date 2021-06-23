@@ -1,0 +1,6 @@
+C:\Users\Bigshadow\source\repos\prueba\Entidades\bin\Debug\Entidades.dll
+C:\Users\Bigshadow\source\repos\prueba\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Bigshadow\source\repos\prueba\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Bigshadow\source\repos\prueba\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Bigshadow\source\repos\prueba\Entidades\obj\Debug\Entidades.dll
+C:\Users\Bigshadow\source\repos\prueba\Entidades\obj\Debug\Entidades.pdb
