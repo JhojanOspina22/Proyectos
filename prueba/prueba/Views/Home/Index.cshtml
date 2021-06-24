@@ -1,0 +1,60 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+
+<br />
+
+<div>
+    <h2>Añadir usuarios mediante archivo csv</h2>
+
+    <form action="/Home/Index" enctype="multipart/form-data" method="post">
+        <input type="file" name="archivo" />
+        <br />
+        <button type="submit"> Agregar</button>
+    </form>
+
+
+</div>
+
+
+<br />
+
+<div class="jumbotron">
+    <div class="row">
+        <div class="col-lg-6">
+            <h2>Usuarios</h2>
+        </div>
+        <div class="col-lg-6" style=" height: 63px; display: flex; align-items: flex-end; justify-content: flex-end; padding:10px 50px">
+            <a href="/Home/ExportarXls"><button style="height:40px; margin-right:10px" class="btn btn-primary" > Exportar xls</button></a>    
+            <a href="/Home/ExportarCsv"><button style="height:40px" class="btn btn-primary"> Exportar csv</button></a>
+
+        </div>
+        <div class="row" style="text-align:right"></div>
+        <div class="col-md-12">
+            <table class="table">
+                <tr>
+                    <th>Nombre</th>
+                    <th>Identificación</th>
+                    <th>Teléfono</th>
+                    <th>Dirección</th>
+                    <th>Ciudad</th>
+                    <th>Correo</th>
+                    <th></th>
+                </tr>
+                @foreach (var usuario in Model)
+                {
+                    <tr>
+                        <th>@usuario.NombreCompleto</th>
+                        <th>@usuario.Identificacion</th>
+                        <th>@usuario.Telefono</th>
+                        <th>@usuario.Direccion</th>
+                        <th>@usuario.Ciudad</th>
+                        <th>@usuario.Correo</th>
+                        <th>
+                            <a class="btn btn-default" name="idUsuario" href="~/Home/EditarUsuario/?IdUsuario=@usuario.IdUsuario">Editar</a>
+                            <a class="btn btn-danger" href="~/Home/EliminarUsuario/?IdUsuario=@usuario.IdUsuario">Eliminar</a>
+                        </th>
+                    </tr>
+                }
+            </table>
+        </div>

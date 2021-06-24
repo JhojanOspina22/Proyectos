@@ -1,0 +1,63 @@
+﻿@model Entidades.Usuario
+
+@{
+    ViewBag.Title = "EditarUsuario";
+}
+
+<h2 >EditarUsuario</h2>
+
+<row>
+    <form method="post" action="/home/EditarUsuario">
+        <div class="col-lg-6">
+            <div class="mb-3">
+                <label for="NombreCompleto" class="form-label">NombreCompleto</label>
+                <input type="text" class="form-control" id="NombreCompleto" name="NombreCompleto" required value=" @Model.NombreCompleto ">
+            </div>
+            <div class="mb-3">
+                <label for="Identificacion" class="form-label">Identificacion</label>
+                <input type="text" class="form-control" id="Identificacion" name="Identificacion" required value=" @Model.Identificacion ">
+            </div>
+            <div class="mb-3">
+                <label for="Direccion" class="form-label">Direccion</label>
+                <input type="text" class="form-control" id="Direccion" name="Direccion" required value=" @Model.Direccion ">
+            </div>
+
+        </div>
+
+
+        <div class="col-lg-6">
+            <div class="mb-3">
+                <label for="Telefono" class="form-label">Telefono</label>
+                <input type="text" class="form-control" id="Telefono" name="Telefono" required value=" @Model.Telefono ">
+            </div>
+            <div class="mb-3">
+                <label for="Ciudad" class="form-label">Ciudad</label>
+                <input type="text" class="form-control" id="Ciudad" name="Ciudad" required value=" @Model.Ciudad " >
+            </div>
+            <div class="mb-3">
+                <label for="Correo" class="form-label">Correo</label>
+                <input type="email" class="form-control" id="Correo" name="Correo" required value=" @Model.Correo " >
+            </div>
+
+            <input type="hidden" class="form-control" id="IdUsuario" name="IdUsuario" required value=" @Model.IdUsuario " >
+
+            <br />
+            <div class="mb-3">
+                <button type="submit" class="btn btn-primary">Actualizar</button>
+            </div>
+
+
+        </div>
+
+    </form>
+</row>
+
+    
+    
+    
+    
+    
+
+
+
+

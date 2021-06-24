@@ -1,0 +1,17 @@
+C:\Users\Bigshadow\source\repos\prueba\Repositorio\bin\Debug\Repositorio.dll.config
+C:\Users\Bigshadow\source\repos\prueba\Repositorio\bin\Debug\Repositorio.dll
+C:\Users\Bigshadow\source\repos\prueba\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\Bigshadow\source\repos\prueba\Repositorio\bin\Debug\Entidades.dll
+C:\Users\Bigshadow\source\repos\prueba\Repositorio\bin\Debug\EntityFramework.dll
+C:\Users\Bigshadow\source\repos\prueba\Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bigshadow\source\repos\prueba\Repositorio\bin\Debug\Modelo.dll
+C:\Users\Bigshadow\source\repos\prueba\Repositorio\bin\Debug\Entidades.pdb
+C:\Users\Bigshadow\source\repos\prueba\Repositorio\bin\Debug\Modelo.pdb
+C:\Users\Bigshadow\source\repos\prueba\Repositorio\bin\Debug\Modelo.dll.config
+C:\Users\Bigshadow\source\repos\prueba\Repositorio\bin\Debug\EntityFramework.xml
+C:\Users\Bigshadow\source\repos\prueba\Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bigshadow\source\repos\prueba\Repositorio\obj\Debug\Repositorio.csproj.AssemblyReference.cache
+C:\Users\Bigshadow\source\repos\prueba\Repositorio\obj\Debug\Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\Bigshadow\source\repos\prueba\Repositorio\obj\Debug\Repositorio.csproj.CopyComplete
+C:\Users\Bigshadow\source\repos\prueba\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\Bigshadow\source\repos\prueba\Repositorio\obj\Debug\Repositorio.pdb
