@@ -1,0 +1,17 @@
+C:\Users\Bigshadow\source\repos\fut21ApiRest\Repository\bin\Debug\Repository.dll.config
+C:\Users\Bigshadow\source\repos\fut21ApiRest\Repository\bin\Debug\Repository.dll
+C:\Users\Bigshadow\source\repos\fut21ApiRest\Repository\bin\Debug\Repository.pdb
+C:\Users\Bigshadow\source\repos\fut21ApiRest\Repository\bin\Debug\Entidades.dll
+C:\Users\Bigshadow\source\repos\fut21ApiRest\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Bigshadow\source\repos\fut21ApiRest\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bigshadow\source\repos\fut21ApiRest\Repository\bin\Debug\Modelo.dll
+C:\Users\Bigshadow\source\repos\fut21ApiRest\Repository\bin\Debug\Entidades.pdb
+C:\Users\Bigshadow\source\repos\fut21ApiRest\Repository\bin\Debug\Modelo.pdb
+C:\Users\Bigshadow\source\repos\fut21ApiRest\Repository\bin\Debug\Modelo.dll.config
+C:\Users\Bigshadow\source\repos\fut21ApiRest\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Bigshadow\source\repos\fut21ApiRest\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bigshadow\source\repos\fut21ApiRest\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\Bigshadow\source\repos\fut21ApiRest\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Bigshadow\source\repos\fut21ApiRest\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\Bigshadow\source\repos\fut21ApiRest\Repository\obj\Debug\Repository.dll
+C:\Users\Bigshadow\source\repos\fut21ApiRest\Repository\obj\Debug\Repository.pdb

@@ -1,0 +1,6 @@
+C:\Users\Bigshadow\source\repos\fut21ApiRest\Interfacez\bin\Debug\Interfacez.dll
+C:\Users\Bigshadow\source\repos\fut21ApiRest\Interfacez\bin\Debug\Interfacez.pdb
+C:\Users\Bigshadow\source\repos\fut21ApiRest\Interfacez\obj\Debug\Interfacez.csproj.AssemblyReference.cache
+C:\Users\Bigshadow\source\repos\fut21ApiRest\Interfacez\obj\Debug\Interfacez.csproj.CoreCompileInputs.cache
+C:\Users\Bigshadow\source\repos\fut21ApiRest\Interfacez\obj\Debug\Interfacez.dll
+C:\Users\Bigshadow\source\repos\fut21ApiRest\Interfacez\obj\Debug\Interfacez.pdb
