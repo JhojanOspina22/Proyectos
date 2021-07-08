@@ -71,7 +71,7 @@ INSERT into @json (Json_Table) EXEC sp_OAGetProperty @token, 'responseText'
 
 DECLARE @cnt2 INT = 1;
 
-WHILE @cnt2 <= 20
+WHILE @cnt2 <= @totalpages
 BEGIN
  
 
